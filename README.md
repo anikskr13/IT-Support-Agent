@@ -11,6 +11,7 @@
 |---|---|
 | 🎥 **Demo Video (Google Drive)** | [Watch Demo on Google Drive](https://drive.google.com/) *(Open Access)* |
 | 🌐 **Live Web Application (Render)** | [Launch Veridian IT Support Agent](https://it-support-agent-zjy1.onrender.com) |
+| 📊 **10-Slide Presentation Deck** | [Download Presentation PPTX](./presentation/IT_Support_Agent_Presentation.pptx) |
 | 🧪 **Backend Test Suite Results** | [View Test Scenarios](./tests/backend_tests.md) |
 
 ---
