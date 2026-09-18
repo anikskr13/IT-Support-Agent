@@ -10,7 +10,7 @@
 | Deliverable | Location / Link |
 |---|---|
 | 🎥 **Demo Video (Google Drive)** | [Watch Demo on Google Drive](https://drive.google.com/) *(Open Access)* |
-| 🌐 **Live Web Application (Render)** | [Launch Veridian IT Support Agent](https://veridian-it-support-agent.onrender.com) |
+| 🌐 **Live Web Application (Render)** | [Launch Veridian IT Support Agent](https://it-support-agent-zjy1.onrender.com) |
 | 🧪 **Backend Test Suite Results** | [View Test Scenarios](./tests/backend_tests.md) |
 
 ---
