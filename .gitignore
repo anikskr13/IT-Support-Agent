@@ -49,6 +49,8 @@ Thumbs.db
 # Internal prep & assignment materials (keep local, do not push to GitHub)
 DEMO_SCRIPT.md
 PRESENTATION_SLIDES.md
+generate_ppt.py
+*.pptx
 *.docx
 *.pdf
 
