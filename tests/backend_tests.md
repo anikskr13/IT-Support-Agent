@@ -1,8 +1,8 @@
-﻿# Backend Test Results — IT Support Agent (Veridian Corp)
+# Backend Test Results — IT Support Agent (Veridian Corp)
 
 **Date:** 2026-09-18
 **Endpoint:** `POST http://127.0.0.1:8000/chat`
-**Model:** `llama-3.3-70b-versatile` via Groq
+**Model:** `openai/gpt-oss-20b` via Groq
 **Status:** ✅ All 5 tests passed
 
 ---

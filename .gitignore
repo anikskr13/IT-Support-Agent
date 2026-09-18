@@ -45,6 +45,7 @@ Thumbs.db
 .idea/
 *.swp
 *.swo
+~$*
 
 # Internal prep & assignment materials (keep local, do not push to GitHub)
 DEMO_SCRIPT.md
